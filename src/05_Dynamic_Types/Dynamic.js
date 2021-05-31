@@ -10,3 +10,6 @@ all.push(5);
 all.push('Shan');
 all.push(false);
 console.log(all);
+var allObject;
+allObject = { name: 'Mindula Dilthushan', age: 21 };
+console.log(allObject);
