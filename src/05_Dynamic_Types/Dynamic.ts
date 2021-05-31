@@ -19,3 +19,6 @@ console.log(all);
 let allObject : {name: any, age: any};
 allObject = {name : 'Mindula Dilthushan', age : 21};
 console.log(allObject);
+
+allObject = { name : 21, age : 'Mindula Dilthushan'};
+console.log(allObject);
